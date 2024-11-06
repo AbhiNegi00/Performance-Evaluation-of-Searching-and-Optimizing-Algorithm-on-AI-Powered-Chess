@@ -1,0 +1,2 @@
+# Performance-Evaluation-of-Searching-and-Optimizing-Algorithm-on-AI-Powered-Chess
+This project involved developing an AI-powered chess application capable of playing against human opponents using advanced machine learning algorithms. The primary goal was to evaluate the performance of various searching and optimizing algorithms in a chess environment to determine their efficiency and effectiveness.
